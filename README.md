@@ -1,18 +1,18 @@
 # Introduccion
 
-# 👋 Hola, soy Heber 
+# Hola, soy Heber 
 
 24 años
 
 - Estudiante de Economia
 - Estudiante de Matematica
 
-🔭 Trabajo en proyectos para entender ingresos, optimizar portafolios financieros y hacer análisis econométrico sobre datos reales.
+Trabajo en proyectos para entender ingresos, optimizar portafolios financieros y hacer análisis econométrico sobre datos reales.
 
 ### 🛠️ Tecnologías
 Python • Jupyter • Pandas • NumPy • SciPy • Statsmodels • yfinance • SQL • Power BI • N8N
 
-### ⭐ Proyectos destacados
+###  Proyectos destacados
 - 📈 **Optimizador de Portafolio**: Maximización del Sharp Ratio.  
 - 📊 **Análisis EPH**: Econometría sobre la Encuesta Permanente de Hogares.
 
