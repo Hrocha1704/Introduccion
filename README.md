@@ -13,7 +13,7 @@ Trabajo en proyectos para entender ingresos, optimizar portafolios financieros y
 Python • Jupyter • Pandas • NumPy • SciPy • Statsmodels • yfinance • SQL • Power BI • N8N
 
 ###  Proyectos destacados
-- 📈 **Optimizador de Portafolio**: Maximización del Sharp Ratio.  
+- 📈 **Optimizador de Portafolio**: Maximización del Sharp Ratio y Minima varianza  
 - 📊 **Análisis EPH**: Econometría sobre la Encuesta Permanente de Hogares.
 
 ### 📫 Contacto
