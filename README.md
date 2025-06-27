@@ -1,8 +1,11 @@
 # Introduccion
 
-# 👋 Hola, soy Heber
+# 👋 Hola, soy Heber 
 
-**Matemático | Data Science, Data Analyst y Econometría en Python**
+24 años
+
+- Estudiante de Economia
+- Estudiante de Matematica
 
 🔭 Trabajo en proyectos para entender ingresos, optimizar portafolios financieros y hacer análisis econométrico sobre datos reales.
 
