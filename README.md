@@ -10,7 +10,7 @@
 🔭 Trabajo en proyectos para entender ingresos, optimizar portafolios financieros y hacer análisis econométrico sobre datos reales.
 
 ### 🛠️ Tecnologías
-Python • Jupyter • Pandas • NumPy • SciPy • Statsmodels • yfinance • SQL • Power BI
+Python • Jupyter • Pandas • NumPy • SciPy • Statsmodels • yfinance • SQL • Power BI • N8N
 
 ### ⭐ Proyectos destacados
 - 📈 **Optimizador de Portafolio**: Maximización del Sharp Ratio.  
